@@ -1,0 +1,12 @@
+.navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+}
+
+a {
+    text-decoration: none !important;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+    &:hover {
+        color: #9b9898;
+    }
+}
